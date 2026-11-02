@@ -1,5 +1,9 @@
 # Multimodal LLM Noise Resistance
 
+This repository contains a lot of the boilerplate used for setting up the experiment.
+
+For a link to the paper, see [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=87Rq5mAAAAAJ&citation_for_view=87Rq5mAAAAAJ:u5HHmVD_uO8C).
+
 ## Image Index
 
 ### Image 1
